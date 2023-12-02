@@ -34,7 +34,7 @@ This project will be a 3 day project.
 3. randomly generated number of likes
 4. added click animation for thumbs up and heart
 
-   # future updates 
+   ### Future Updates 
 6. I hope to implement a web nav bar on top
 7. I hope to be able to generate containers of the cat as you scroll down
 8. I would like to create a login page so you can have a username and own profile page when clicking on the profile icon
